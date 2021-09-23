@@ -3,7 +3,7 @@
 """
 Created on Sat May 15 09:56:40 2021
 
-@author: asegal
+@author: npham
 """
 
 # Example usage:
